@@ -46,7 +46,7 @@ void point(int x, int y) {
 
 void pulsar(int top_left_x, int top_left_y) {
     currentColor = {0, 255, 255, 255}; // Celeste
-    
+
     int offsets[48][2] = {
             {2, 0}, {3, 0}, {4, 0}, {8, 0}, {9, 0}, {10, 0},
             {0, 2}, {5, 2}, {7, 2}, {12, 2},
